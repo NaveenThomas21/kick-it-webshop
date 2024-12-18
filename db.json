@@ -1,0 +1,415 @@
+{
+  "users": [
+    {
+      "id": "2573",
+      "name": "Naveen",
+      "email": "naveen@gmail.ccom",
+      "password": "123123",
+      "cpassword": "123123",
+      "cart": [],
+      "isLogged": true
+    },
+    {
+      "id": "d956",
+      "name": "Arun Joseph",
+      "email": "arun@gmail.comn",
+      "password": "123123",
+      "cpassword": "123123",
+      "cart": [],
+      "orders": [],
+      "isLogged": true
+    },
+    {
+      "id": "1f34",
+      "name": "Aswin",
+      "email": "aswin@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "cart": [
+        {
+          "id": "5",
+          "brand": "nike",
+          "quantity": 10,
+          "price": 5000,
+          "discount": 45,
+          "categories": "Men",
+          "description": "thsi product is good",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/52e47696-f000-4bb9-a6d3-41aa19220379/NIKE+SB+DUNK+LOW+PRO.png",
+          "sizes": [
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "orders": [
+        {
+          "id": "5",
+          "brand": "nike",
+          "quantity": 10,
+          "price": 5000,
+          "discount": 45,
+          "categories": "Men",
+          "description": "thsi product is good",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/52e47696-f000-4bb9-a6d3-41aa19220379/NIKE+SB+DUNK+LOW+PRO.png",
+          "sizes": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "15",
+          "brand": "New Balance",
+          "quantity": 6,
+          "price": 2800,
+          "discount": 12,
+          "categories": "Women",
+          "description": "this product is eally god product",
+          "image": "https://nb.scene7.com/is/image/NB/mr530snc_nb_05_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+          "sizes": [
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "isLogged": true
+    },
+    {
+      "id": "3841",
+      "name": "Ayush",
+      "email": "ayush@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "cart": [],
+      "orders": [],
+      "isLogged": false
+    },
+    {
+      "id": "71ef",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "isAdmin": "true",
+      "isLogged": true
+    },
+    {
+      "id": "39af",
+      "name": "micheal",
+      "email": "micheal@gmailcom",
+      "password": "123123",
+      "cpassword": "123123",
+      "cart": [
+        {
+          "id": "14",
+          "brand": "Nike",
+          "quantity": 7,
+          "price": 4000,
+          "discount": 20,
+          "categories": "Women",
+          "description": "this product is eally god product",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6d118a1-7135-4537-81af-7622e24baead/W+AF1+SHADOW.png",
+          "sizes": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "1",
+          "brand": "Nike",
+          "quantity": "3",
+          "price": "3400",
+          "discount": "34",
+          "categories": "Men",
+          "description": "this product is really good",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9420681f-16b9-484e-9091-afc6730d1a6b/NIKE+FIELD+GENERAL+SP+U.png",
+          "sizes": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "12",
+          "brand": "Nike",
+          "quantity": 5,
+          "price": 3000,
+          "discount": 10,
+          "categories": "Women",
+          "description": "this product is eally god product",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dc1dc7e3-5f90-448b-bb06-1876dca86fde/W+NIKE+TECH+HERA.png",
+          "sizes": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "8",
+          "brand": "nike",
+          "quantity": 6,
+          "price": 4000,
+          "discount": 15,
+          "categories": "Men",
+          "description": "this product is eally god product",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/604fe989-146b-4489-98cb-0746673722e5/NIKE+MOTIVA.png",
+          "sizes": [
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ],
+      "orders": [],
+      "isLogged": true
+    },
+    {
+      "id": "610a",
+      "name": " ridhila",
+      "email": "ridhila@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "cart": [],
+      "orders": [],
+      "isLogged": true
+    }
+  ],
+  "products": [
+    {
+      "id": "4",
+      "brand": "Nike",
+      "quantity": 9,
+      "price": "100000000",
+      "discount": "67",
+      "categories": "Men",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d1641887-f508-4442-89ab-c1bfa5033cbf/NIKE+P-6000.png",
+      "discription": []
+    },
+    {
+      "id": "5",
+      "brand": "nike",
+      "quantity": 10,
+      "price": 5000,
+      "discount": 45,
+      "categories": "Men",
+      "description": "thsi product is good",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/52e47696-f000-4bb9-a6d3-41aa19220379/NIKE+SB+DUNK+LOW+PRO.png",
+      "sizes": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "6",
+      "brand": "Nike",
+      "quantity": 5,
+      "price": "4500",
+      "discount": 55,
+      "categories": "Men",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4ee1d6f1-5efc-4e2a-84a6-7e40b02de73d/NIKE+ZOOM+VOMERO+5.png",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "7",
+      "brand": "Nike",
+      "quantity": 8,
+      "price": 5000,
+      "discount": 8,
+      "categories": "Men",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a4b9a6fb-fbc5-485b-ae0b-f1263d3df85a/NIKE+COURT+VISION+MID+NN.png",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "8",
+      "brand": "nike",
+      "quantity": 6,
+      "price": 4000,
+      "discount": 15,
+      "categories": "Men",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/604fe989-146b-4489-98cb-0746673722e5/NIKE+MOTIVA.png",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "11",
+      "brand": "ADDIDAS",
+      "quantity": 6,
+      "price": "8000",
+      "discount": "12",
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/46f0ab91-421a-47e5-888e-affc2cec7fc2/W+AIR+FORCE+1+%2707+NN+SE.png",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "12",
+      "brand": "Nike",
+      "quantity": 5,
+      "price": 3000,
+      "discount": 10,
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dc1dc7e3-5f90-448b-bb06-1876dca86fde/W+NIKE+TECH+HERA.png",
+      "sizes": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "13",
+      "brand": "Balance",
+      "quantity": 8,
+      "price": 3500,
+      "discount": 15,
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://nb.scene7.com/is/image/NB/u9060ese_nb_02_i?$pdpflexf2$&qlt=80&wid=440&hei=440",
+      "sizes": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "14",
+      "brand": "Nike",
+      "quantity": 7,
+      "price": 4000,
+      "discount": 20,
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e6d118a1-7135-4537-81af-7622e24baead/W+AF1+SHADOW.png",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "15",
+      "brand": "New Balance",
+      "quantity": 6,
+      "price": 2800,
+      "discount": 12,
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://nb.scene7.com/is/image/NB/mr530snc_nb_05_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "16",
+      "brand": "Nike",
+      "quantity": 5,
+      "price": 3000,
+      "discount": 10,
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d676df3d-6c0a-42b1-8658-49e2875f94f1/NIKE+AIR+MAX+90+LV8.png",
+      "sizes": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "17",
+      "brand": "Nike",
+      "quantity": 8,
+      "price": 3500,
+      "discount": 15,
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/782e840d-f0d1-4faf-a8bb-288f77af474b/W+COURT+LEGACY+LIFT.png",
+      "sizes": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "18",
+      "brand": "New Balance",
+      "quantity": 7,
+      "price": 4000,
+      "discount": 20,
+      "categories": "Women",
+      "description": "this product is eally god product",
+      "image": "https://nb.scene7.com/is/image/NB/pc9060vy_nb_02_i?$pdpflexf2$&qlt=80&wid=440&hei=440",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "1",
+      "brand": "Nike",
+      "quantity": "3",
+      "price": "3400",
+      "discount": "34",
+      "categories": "Men",
+      "description": "this product is really good",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9420681f-16b9-484e-9091-afc6730d1a6b/NIKE+FIELD+GENERAL+SP+U.png",
+      "sizes": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "3",
+      "brand": "Nike",
+      "quantity": "3",
+      "price": "4000",
+      "discount": "34",
+      "categories": "Men",
+      "description": "this product is really good",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/23a8eab3-524e-4b2f-9804-88fd7e902d62/NIKE+AIR+180.png",
+      "sizes": [
+        7,
+        8,
+        9
+      ]
+    }
+  ]
+}
