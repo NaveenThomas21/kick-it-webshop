@@ -33,4 +33,3 @@ To set up this project locally for development, follow these steps:
    ```bash
    git clone https://github.com/yourusername/kick-it.git
    cd kick-it
-git push -u origin master
